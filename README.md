@@ -1,2 +1,2 @@
 # OpenGL_c
-# OpenGL_c
+Just I'm learning OpenGL in C.

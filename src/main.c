@@ -1,10 +1,12 @@
 #include <GL/glu.h>
 #include <GL/glut.h>
+#include <stdio.h>
 
 //Callback function
 void Draw();
 
 int main(int argC, char *argV[]){
+    printf("Ola mundo");
     glutInit(&argC, argV);
 
     glutInitWindowSize(100,100);
